@@ -12,7 +12,7 @@ This application is built with these utilities of Android mentioned below :
   
 For running this appliaction Simply follow the steps :
   1. Download Android Studio(You can download it from Developer.android.com)
-  2. You should have the latest version of java or download it from WWW.JAVA.COM
+  2. You should have the latest version of java or download it from http://java.com
   3. set the path of java environment variables or follow this guide to set java path
      http://www.javatpoint.com/how-to-set-path-in-java
   4. Open android sdk and download the support packages.
